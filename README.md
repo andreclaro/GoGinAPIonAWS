@@ -31,6 +31,5 @@ This is an API built with Gin Web Framework (Golang) and deployed on AWS (API Ga
 - [API Gateway](https://aws.amazon.com/api-gateway)
 - [Lambda](https://aws.amazon.com/lambda)
 
-
 ## Useful Links
 - https://djharper.dev/post/2018/01/27/running-go-aws-lambda-functions-locally/
