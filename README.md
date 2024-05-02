@@ -1,9 +1,7 @@
 # Go Gin API on AWS
-
 This is an API built with Gin Web Framework (Golang) and deployed on AWS (API Gateway and Lambda) using CDK (Cloud Development Kit).
 
 ## How to Build & Deploy
-
 ### Lambda Functions
 
 - `# go mod init main`
