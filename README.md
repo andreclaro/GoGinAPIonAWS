@@ -1,7 +1,5 @@
 # Go Gin API on AWS
 
-
-dsadsa
 This is an API built with Gin Web Framework (Golang) and deployed on AWS (API Gateway and Lambda) using CDK (Cloud Development Kit).
 
 ## How to Build & Deploy
@@ -32,7 +30,6 @@ This is an API built with Gin Web Framework (Golang) and deployed on AWS (API Ga
 - [CloudFormation](https://aws.amazon.com/cloudformation/)
 - [API Gateway](https://aws.amazon.com/api-gateway)
 - [Lambda](https://aws.amazon.com/lambda)
-
 
 ## Useful Links
 - https://djharper.dev/post/2018/01/27/running-go-aws-lambda-functions-locally/
