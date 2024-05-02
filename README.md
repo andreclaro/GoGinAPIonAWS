@@ -15,6 +15,7 @@ This is an API built with Gin Web Framework (Golang) and deployed on AWS (API Ga
 - `# cdk synth`
 - `# cdk deploy`
 
+
 ## Technologies
 
 ### Lambda Functions
